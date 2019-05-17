@@ -1,0 +1,27 @@
+-- --
+<h1>-- This log is certified according to TheWebZone their Logging Standards. --</h1>
+Certified on:
+Certified by:
+The certifier is contacted via
+Specification of "Certifier is contacted via":
+Comments and notes on 'Specification of "Certifier is contacted via E-mail"':
+Valid from:
+Valid until:
+Privacy Concerns:
+This log can be modified by .
+    Declaration of modifiers:
+        --
+        name1: description1.
+        name2: description2.
+        ...
+        --
+Comments and notes on 'This log can be modified by':
+Log usage: "This log logs ..."
+Can this log be cleared: Yes/No.
+Can this log be removed: Yes/No.
+Does this log provide legal evidence: Yes, .../No.
+How can this log be requested completely:
+How can this log be requested partly:
+
+Signature (The signature is made by copying all lines above this line and encrypting it with SHA512):
+-- --

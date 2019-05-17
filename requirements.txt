@@ -1,0 +1,47 @@
+All log certificates ARE in English.
+1) Notify the user that the LOG is certified according to the requirements described in this file
+2) When was the log certified?
+3) By who was it certified?
+4) How should the certifier be contacted?
+5) Specify requirement 4 (e-mail address/phone number/address)
+6) Comments and notes on requirement 5 (special subject header/response in x amount of time/anything/none)
+7) Valid from date and time
+8) Valid until date and time
+9) Privacy concerns
+10) By who can this log be modified
+11) Who are these modifiers?
+12) Comments and notes on requirement 11
+13) For what is this log used?
+14) Can this log be cleared?
+15) Can this log be removed?
+16) Does this log provide legal evidence? (A judge can still decide your log is not valid as legal proof/evidence)
+17) How can this log be obtained/requested completely?
+18) How can this log be obtained/requested partly?
+19) A SHA512 signature
+COMMENTS:
+
+Commentary on requirement 3: this can be anyone.
+Commentary on requirements 4, 5, and 6: when the specified contact method is not available anymore, the certificate is not valid anymore.
+Commentary on requirement 8: you can also fill in "no expiration date"
+Commentary on requirement 9: Here it should be described what privacy concerns there (might) are. Examples of privacy concerns can be found under "Examples of privacy concerns".
+Commentary on requirement 9: If there are no privacy concerns, it should state why there are no privacy concerns.
+Commentary on requirement 10: State here all the people and/or things that are allowed to modify this log.
+Commentary on requirement 11: State here the description of the thing(s) and/or people that are allowed to modify this log.
+
+FORMAT REQUIREMENTS:
+
+FORMAT requirement 2 (format 1/2): [day of the month]st/nd/rd/th of [Month] [Year]
+FORMAT requirement 2 (format 2/2): [day of the month written out completly] of [Month] [Year]
+
+FORMAT requirement 4 (format 1/1): "The certifier is contacted via " [e-mail/phone/sms/mail].
+
+FORMAT requirement 7 & 8 (format 1/2): [day of the month]st/nd/rd/th of [Month] [Year] [hour]:[minute]
+FORMAT requirement 7 & 8 (format 2/2): [day of the month written out completly] of [Month] [Year] [hour]:[minute]
+
+
+Examples of privacy concerns
+* Everyone can see this log
+* This log is visible (at all times) for our staff
+* This is accessible without informing our users
+* This log is shared between multiple computers/file systems/servers/any other storage method
+* This log stores sensitive data
