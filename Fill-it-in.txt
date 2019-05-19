@@ -4,7 +4,7 @@ Certified on:
 Certified by:
 The certifier is contacted via
 Specification of "Certifier is contacted via":
-Comments and notes on 'Specification of "Certifier is contacted via E-mail"':
+Comments and notes on 'Specification of "Certifier is contacted via"':
 Valid from:
 Valid until:
 Privacy Concerns:
